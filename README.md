@@ -30,9 +30,10 @@
 - DaisyUI
 
 ### Backend
-- Node.js
-- Express.js
-- REST API
+![React](https://img.shields.io/badge/React-blue)
+![Node](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ### Database
 - MongoDB
