@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,30:1D4ED8,68:06B6D4,100:22C55E&text=Wasif%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:1E3A8A,62:0891B2,100:16A34A&text=Wasif%20Hasan&fontSize=60&fontColor=ffffff&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descAlignY=60&animation=fadeIn" alt="header" />
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2300&pause=700&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+modern+full-stack+web+applications;MERN+%2B+Next.js+for+real-world+products;Clean+UI+%7C+secure+API+%7C+production-ready+delivery" alt="Typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3400&pause=1000&color=38BDF8&center=true&vCenter=true&width=1080&lines=React+%7C+Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+responsive+and+accessible+user+interfaces;Developing+scalable+REST+APIs+for+production;Implementing+secure+authentication+and+authorization;Creating+role-based+dashboards+and+admin+panels;Designing+clean+database+schemas+with+MongoDB;Deploying+full+stack+apps+on+Vercel+and+Netlify" alt="Typing animation" />
 </p>
+
+<h3 align="center">Skill-focused full stack development from interface to API.</h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0f172a?style=for-the-badge&logo=icloud&logoColor=67e8f9" alt="Full stack developer" />
@@ -20,6 +22,9 @@
 	</a>
 	<a href="https://github.com/wasifhasancse?tab=followers">
 		<img src="https://img.shields.io/github/followers/wasifhasancse?style=flat-square&color=16a34a&label=FOLLOWERS&labelColor=111827" alt="Followers" />
+	</a>
+	<a href="mailto:wasifhasancse@gmail.com">
+		<img src="https://img.shields.io/badge/EMAIL-wasifhasancse%40gmail.com-f97316?style=flat-square&labelColor=111827" alt="Email" />
 	</a>
 </p>
 
@@ -42,10 +47,8 @@
 	<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1d4ed8,50:06b6d4,100:22c55e" alt="divider" />
 </p>
 
-<h3 align="center">Building polished web products from interface to API.</h3>
-
 <p align="center">
-	I build responsive frontend experiences, secure backend systems, and complete full stack applications that are ready for real users.
+	I build responsive frontend interfaces, secure backend APIs, and production-ready full stack applications.
 </p>
 
 <p align="center">
@@ -54,8 +57,9 @@
 
 ## About Me
 
-- Full stack developer with hands-on experience in MERN and Next.js.
-- I build practical products with clean UI, secure APIs, and scalable architecture.
+- Full stack web developer specializing in MERN and Next.js.
+- Strong in building reusable React components, REST APIs, and MongoDB-based backend systems.
+- Experienced with authentication, CRUD operations, dashboard workflows, and deployment.
 - Open to full-time, remote, and freelance opportunities.
 
 ## Core Expertise
@@ -63,13 +67,8 @@
 - Frontend: HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js
 - Backend: Node.js, Express.js, REST APIs
 - Database: MongoDB, Mongoose
+- Authentication: Firebase Auth, JWT, role-based access
 - Workflow: Git, GitHub, Vercel, Netlify
-
-## Developer Activity
-
-<p align="center">
-	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wasifhasancse&bg_color=0f172a&color=38bdf8&line=22c55e&point=67e8f9&area=true&hide_border=true" alt="Contribution graph" />
-</p>
 
 ## Tech Stack
 
@@ -79,18 +78,23 @@
 
 ## What I Build
 
-- Production-style full stack applications
-- Secure login systems and role-based dashboards
-- Responsive and accessible UI for web apps
-- API-driven features with clean database structure
+- Full stack web apps with React/Next.js frontend and Node/Express backend
+- Secure authentication systems with role-based access control
+- REST API-driven features with structured MongoDB schemas
+- Responsive interfaces for desktop and mobile users
+- Deployment-ready projects on Vercel and Netlify
 
-## Why Work With Me
+## Technical Strengths
 
-- I care about both the visual side and the system design behind an application.
-- I build interfaces that are simple to use and backends that are practical to maintain.
-- I like shipping complete features, not just isolated components.
+- Clean component architecture and reusable UI patterns
+- Practical API design with maintainable backend structure
+- End-to-end implementation from frontend to deployment
 
 ## GitHub Activity and Analytics
+
+<p align="center">
+	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wasifhasancse&bg_color=0f172a&color=38bdf8&line=22c55e&point=67e8f9&area=true&hide_border=true" alt="Contribution graph" />
+</p>
 
 <p align="center">
 	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasifhasancse&theme=github_dark" alt="Profile details" />
