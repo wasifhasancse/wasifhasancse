@@ -13,6 +13,20 @@
 	</a>
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Open%20To-Remote%20Roles-0f766e?style=flat-square" alt="Open to remote roles" />
+	<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563eb?style=flat-square" alt="Focus full stack development" />
+	<img src="https://img.shields.io/badge/Specialty-MERN%20%26%20Next.js-f59e0b?style=flat-square" alt="Specialty MERN and Next.js" />
+</p>
+
+## Profile Snapshot
+
+```text
+Full Stack Developer
+Specialized in MERN and Next.js
+Interested in scalable products, polished UI, and clean backend systems
+```
+
 ## About Me
 
 - Full stack developer with strong hands-on experience in MERN and Next.js applications.
@@ -20,65 +34,76 @@
 - My focus areas are frontend architecture, backend API design, and clean deployment workflows.
 - Open to full-time, remote, and freelance opportunities.
 
-## Complete Topic Coverage
+## What I Work With
 
-This section covers the full topic map from your web development learning path.
+| Area | Skills |
+| --- | --- |
+| Frontend | HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js |
+| Backend | Node.js, Express.js, REST API development |
+| Database | MongoDB, Mongoose |
+| Authentication | Firebase, JWT, role-based access |
+| Deployment | Vercel, Netlify, GitHub |
+| Workflow | Git, GitHub, project structuring, responsive development |
 
-### 1) Web Foundation
+## Learning Coverage
+
+<details>
+<summary><strong>See complete topic coverage</strong></summary>
+
+### Web Foundation
 - HTML semantic tags
 - Forms and inputs
-- Audio/video, table, iframe
+- Audio, video, table, iframe
 - CSS selectors, box model, display properties
 - Background, border, spacing, layout basics
-- Flexbox and responsive design fundamentals
+- Flexbox and responsive design
 
-### 2) Git and GitHub Workflow
+### Git and GitHub
 - Git init, add, commit, push
 - Branching basics
-- GitHub repository workflow
-- GitHub Pages style deployment basics
+- GitHub workflow and repository management
+- Basic static deployment workflow
 
-### 3) JavaScript Core
+### JavaScript Core
 - Variables and data types
 - Conditions and loops
 - Functions and parameters
 - Arrays and objects
-- Problem solving and basic algorithms
+- Logical problem solving
 
-### 4) Modern JavaScript and Browser APIs
+### Modern JavaScript
 - DOM manipulation
 - Event handling
-- ES6+ features
-- Async JavaScript (promise/async-await)
-- API integration with fetch
+- ES6+ syntax and patterns
+- Async JavaScript and API integration
 
-### 5) React Fundamentals
-- JSX and component architecture
-- Props and state management
-- React hooks
-- Component composition and reusability
+### React Development
+- JSX and reusable components
+- Props, state, hooks
+- Component composition
 - React Router
 
-### 6) Backend and Database
-- Node.js runtime basics
-- Express.js server architecture
+### Backend Development
+- Node.js fundamentals
+- Express.js architecture
 - REST API development
-- MongoDB integration
-- CRUD operations
+- MongoDB and CRUD operations
 - Authentication and authorization
 
-### 7) Real-World Full Stack Features
-- Dashboard patterns
+### Full Stack Features
+- Dashboards
 - Payment integration
-- Image/file upload workflow
-- Pagination and filtered listing
-- Deployment and environment configuration
+- Image upload
+- Pagination and filtering
+- Deployment and environment setup
 
-### 8) Additional Ecosystem Topics
+### Additional Topics
 - Tailwind CSS
-- Firebase basics
-- Next.js basics and app structuring
-- AI-integrated project concepts
+- Firebase
+- Next.js basics
+- AI-integrated project ideas
+
+</details>
 
 ## Tech Stack
 
@@ -99,6 +124,10 @@ This section covers the full topic map from your web development learning path.
 	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" alt="skill icons" />
+</p>
+
 ## What I Build
 
 - Production-style full stack applications
@@ -106,15 +135,22 @@ This section covers the full topic map from your web development learning path.
 - Responsive and accessible UI for web apps
 - API-driven features with clean database structure
 
+## Why Work With Me
+
+- I care about both the visual side and the system design behind an application.
+- I build interfaces that are simple to use and backends that are practical to maintain.
+- I like shipping complete features, not just isolated components.
+
 ## GitHub Analytics
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=wasifhasancse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifhasancse&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasifhasancse&theme=github_dark" alt="Profile details" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasifhasancse&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
-	<img height="170" src="https://streak-stats.demolab.com?user=wasifhasancse&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasifhasancse&theme=github_dark" alt="Most commit language" />
+	<img width="49%" src="https://streak-stats.demolab.com?user=wasifhasancse&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Contact
