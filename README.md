@@ -1,7 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,50:00E4FF,100:7CFF6B&text=Wasif%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=MERN%20%7C%20Next.js%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,35:2C5364,70:00C9FF,100:7CFF6B&text=Wasif%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=60&animation=twinkling" alt="header" />
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=00B8D9&center=true&vCenter=true&width=980&lines=Building+modern+full-stack+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Clean+UI%2C+secure+API%2C+production-ready+delivery" alt="Typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+modern+full-stack+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Clean+UI+%2B+secure+API+%2B+production-ready+delivery;Focused+on+real-world+products+that+scale" alt="Typing animation" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8" alt="Full stack developer" />
+	<img src="https://img.shields.io/badge/MERN%20%26%20Next.js%20Specialist-111827?style=for-the-badge&logo=nextdotjs&logoColor=7CFF6B" alt="MERN and Next.js specialist" />
+	<img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to remote roles" />
 </p>
 
 <p align="center">
@@ -14,18 +20,38 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Open%20To-Remote%20Roles-0f766e?style=flat-square" alt="Open to remote roles" />
-	<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563eb?style=flat-square" alt="Focus full stack development" />
-	<img src="https://img.shields.io/badge/Specialty-MERN%20%26%20Next.js-f59e0b?style=flat-square" alt="Specialty MERN and Next.js" />
+	<a href="https://github.com/wasifhasancse">
+		<img src="https://img.shields.io/badge/GitHub-wasifhasancse-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+	</a>
+	<a href="https://www.linkedin.com/in/wasifhasancse/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://yourportfolio.com">
+		<img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="mailto:wasifhasancse@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact-f97316?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+	</a>
 </p>
 
 ## Profile Snapshot
 
-```text
-Full Stack Developer
-Specialized in MERN and Next.js
-Interested in scalable products, polished UI, and clean backend systems
-```
+<table align="center">
+	<tr>
+		<td align="center"><strong>Role</strong></td>
+		<td align="center"><strong>Focus</strong></td>
+		<td align="center"><strong>Goal</strong></td>
+	</tr>
+	<tr>
+		<td align="center">Full Stack Developer</td>
+		<td align="center">MERN and Next.js Apps</td>
+		<td align="center">Build polished, scalable web products</td>
+	</tr>
+</table>
+
+<p align="center">
+	<sub>I build user-friendly interfaces, practical backend systems, and complete products ready for real-world use.</sub>
+</p>
 
 ## About Me
 
@@ -36,14 +62,14 @@ Interested in scalable products, polished UI, and clean backend systems
 
 ## What I Work With
 
-| Area | Skills |
-| --- | --- |
-| Frontend | HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js |
-| Backend | Node.js, Express.js, REST API development |
-| Database | MongoDB, Mongoose |
-| Authentication | Firebase, JWT, role-based access |
-| Deployment | Vercel, Netlify, GitHub |
-| Workflow | Git, GitHub, project structuring, responsive development |
+| Area           | Skills                                                   |
+| -------------- | -------------------------------------------------------- |
+| Frontend       | HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js    |
+| Backend        | Node.js, Express.js, REST API development                |
+| Database       | MongoDB, Mongoose                                        |
+| Authentication | Firebase, JWT, role-based access                         |
+| Deployment     | Vercel, Netlify, GitHub                                  |
+| Workflow       | Git, GitHub, project structuring, responsive development |
 
 ## Learning Coverage
 
@@ -51,6 +77,7 @@ Interested in scalable products, polished UI, and clean backend systems
 <summary><strong>See complete topic coverage</strong></summary>
 
 ### Web Foundation
+
 - HTML semantic tags
 - Forms and inputs
 - Audio, video, table, iframe
@@ -59,12 +86,14 @@ Interested in scalable products, polished UI, and clean backend systems
 - Flexbox and responsive design
 
 ### Git and GitHub
+
 - Git init, add, commit, push
 - Branching basics
 - GitHub workflow and repository management
 - Basic static deployment workflow
 
 ### JavaScript Core
+
 - Variables and data types
 - Conditions and loops
 - Functions and parameters
@@ -72,18 +101,21 @@ Interested in scalable products, polished UI, and clean backend systems
 - Logical problem solving
 
 ### Modern JavaScript
+
 - DOM manipulation
 - Event handling
 - ES6+ syntax and patterns
 - Async JavaScript and API integration
 
 ### React Development
+
 - JSX and reusable components
 - Props, state, hooks
 - Component composition
 - React Router
 
 ### Backend Development
+
 - Node.js fundamentals
 - Express.js architecture
 - REST API development
@@ -91,6 +123,7 @@ Interested in scalable products, polished UI, and clean backend systems
 - Authentication and authorization
 
 ### Full Stack Features
+
 - Dashboards
 - Payment integration
 - Image upload
@@ -98,6 +131,7 @@ Interested in scalable products, polished UI, and clean backend systems
 - Deployment and environment setup
 
 ### Additional Topics
+
 - Tailwind CSS
 - Firebase
 - Next.js basics
@@ -155,8 +189,8 @@ Interested in scalable products, polished UI, and clean backend systems
 
 ## Contact
 
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: wasifhasancse@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wasifhasancse/
 - Portfolio: https://yourportfolio.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7CFF6B,50:00E4FF,100:00C9FF" alt="footer" />
