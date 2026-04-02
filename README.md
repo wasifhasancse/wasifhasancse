@@ -55,12 +55,20 @@
 	<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&perline=6" alt="hero skill icons" />
 </p>
 
+## Quick Facts
+
+- 📍 **Based in:** Bangladesh
+- 💼 **Available for:** Full-time, Remote, Freelance
+- 🎯 **Specialization:** MERN Stack & Next.js Full Stack Development
+- ⏱️ **Response Time:** Available to start immediately
+- 📊 **Focus:** Scalable products, clean UI, reliable backend systems
+
 ## About Me
 
 - Full stack web developer specializing in MERN and Next.js.
 - Strong in building reusable React components, REST APIs, and MongoDB-based backend systems.
 - Experienced with authentication, CRUD operations, dashboard workflows, and deployment.
-- Open to full-time, remote, and freelance opportunities.
+- Proven ability to ship production-ready applications end-to-end.
 
 ## Core Expertise
 
@@ -90,6 +98,16 @@
 - Practical API design with maintainable backend structure
 - End-to-end implementation from frontend to deployment
 
+## Featured Projects
+
+**Note:** Add your best 2-3 projects with live demos and GitHub links.
+
+- **E-Commerce Dashboard** - React + Tailwind frontend with Node/Express backend, MongoDB database, Stripe integration
+- **Task Management App** - Next.js fullstack app with Firebase authentication, real-time updates
+- **Portfolio Website** - Responsive design with SEO optimization, deployed on Vercel
+
+> Link your actual GitHub repositories here with brief descriptions of what you built and technologies used.
+
 ## GitHub Activity and Analytics
 
 <p align="center">
@@ -106,10 +124,13 @@
 	<img width="49%" src="https://streak-stats.demolab.com?user=wasifhasancse&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Contact
+## Get In Touch
 
-- Email: wasifhasancse@gmail.com
-- LinkedIn: https://www.linkedin.com/in/wasifhasancse/
-- Portfolio: https://yourportfolio.com
+- **Email:** wasifhasancse@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/wasifhasancse/
+- **GitHub:** https://github.com/wasifhasancse
+- **Portfolio:** Add your portfolio URL here
+
+> 💡 Open to opportunities: full-time roles, contract work, and interesting project collaborations.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,30:1D4ED8,68:06B6D4,100:22C55E" alt="footer" />
